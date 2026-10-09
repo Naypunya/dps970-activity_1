@@ -1,0 +1,6 @@
+winner
+prize
+free
+cash
+urgent
+claim
